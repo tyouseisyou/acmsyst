@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta charset="utf-8" /><title>
+	获证组织信息验证平台
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+    <style type="text/css">
+        body
+        {
+            padding: 0;
+            margin: 0;
+            background: #333;
+            font-family: "微软雅黑";
+            color: #fff;
+            text-shadow: 0 1px 0 #000;
+            font-weight: normal;
+        }
+        .rz-main
+        {
+            font-size: 16px;
+            width: 100%;
+        }
+        .rz-main .rz-top
+        {
+            text-align: right;
+            line-height: 2em;
+            position: relative;
+            margin-bottom: 0.5em;
+        }
+        .rz-main .rz-top .rz-topbg img
+        {
+            width: 100%;
+        }
+        .rz-main .rz-top .rz-bigft
+        {
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .rz-main .rz-top .rz-smft
+        {
+            font-size: 22px;
+        }
+        .rz-main .rz-state
+        {
+            font-size: 20px;
+            text-align: left;
+            padding: 1em;
+        }
+        .rz-main .rz-state span
+        {
+            font-size: 22px;
+            color: #F8E619;
+            font-weight: bold;
+        }
+        .rz-main .rz-infor
+        {
+            padding: 1em;
+        }
+        .rz-main .rz-infor .rz-item
+        {
+            line-height: 1.3em;
+            margin-bottom: 1em;
+        }
+        .rz-main .rz-infor .rz-item p
+        {
+            padding: 0.2em 0;
+            margin: 0;
+        }
+        
+        #displayName_yellow
+        {
+            color: #F8E619;
+        }
+        #displayName_red
+        {
+            color: Red;
+        }
+        #displayName_blue
+        {
+            color: #5DB95B;
+        }
+    </style>
+</head>
+<body>
+    <div class="rz-main">
+        
+        <div class="rz-state">证书状态 Status：<span id='displayName_blue'>有效 Valid</span></div>
+        <div class="rz-infor">
+             <div class='rz-item'>
+                <p>组织名称：佛山市铝翼新型建材有限公司</p>
+                <p>Client Name: FOSHAN LVYI NEW BUILDING MATERIAL CO.,LTD.</p>
+                <p>证书编号 Certificate No：19ACM7195Q</p>
+                <p>认证标准 Standard：ISO 9001:2015</p>
+                <p>服务范围：铝天花板和铝单板的生产和销售</p>
+                <p>Certification Scope: Production and Sales of Aluminum Ceiling and Aluminum Veneer</p>
+                <p>生效日期 Issue Date：2022-05-24</p>
+                <p>有效截止日期 Expiry Date：2025-06-12</p>
+                </div>
+            <div class="rz-item">
+                <p style="color: Red;">获证组织必须定期接受监督审核并经审核合格此证书方继续有效。</p>
+                <p style="color: Red;">The certified organization must conduct regular surveillance audit, and pass the audit then this certificate can continue to be valid.</p>
+                <p>本证书信息可在国家认证认可监督管理委员会官方网站（www.cnca.gov.cn）上查询。</p>
+                <p>This certificate information can be verified on the CNCA website (www.cnca. gov.cn).</p>
+                <p>认证机构：艾西姆认证（上海）有限公司</p>
+                <p>CB Name: ACM (CHINA) LIMITED</p>
+                <p>认证机构地址：上海市闵行区外环路352号2幢B201室（201199）</p>
+                <p>CB Address: Rm B201, Building 2, No 352, Waihuan Road, Minhang District, Shanghai 201199, China</p>
+                <p>联系电话 Contact：+86 21 64305860</p>
+                
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>
